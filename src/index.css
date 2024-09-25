@@ -1,3 +1,59 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.hamburger-line {
+  @apply w-[30px] h-[2px] my-2 block bg-dark dark:bg-slate-300;
+}
+
+.hamburger-active > span:nth-child(1) {
+  @apply rotate-45;
+}
+.hamburger-active > span:nth-child(2) {
+  @apply scale-0;
+}
+.hamburger-active > span:nth-child(3) {
+  @apply -rotate-45;
+}
+
+.navbar-hide {
+  @apply -translate-y-full opacity-0 transition-all ease-out duration-500;
+}
+
+.navbar-scrolled {
+  @apply fixed z-50  bg-white bg-opacity-70 translate-y-0 opacity-100 backdrop-blur-sm dark:bg-dark dark:bg-opacity-80;
+  box-shadow:
+    0 10px 15px -3px rgb(0 0 0 / 0.1),
+    0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+
+.nav-link::after {
+  @apply block w-0 h-[2px] mt-1 transition-all ease-out duration-500 bg-primary;
+  content: "";
+}
+
+.nav-link:hover::after,
+.nav-link.active::after {
+  width: 100%;
+}
+
+.nav-link:hover,
+.nav-link.active {
+  @apply text-primary font-semibold;
+}
+
+.toggle-button {
+  @apply transition duration-500 lg:border-2 text-3xl p-2 rounded-full lg:mb-2 mr-4 lg:mr-0 absolute top-0 right-0;
+}
+
+::-webkit-scrollbar {
+  @apply w-2 h-2;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-primary;
+}

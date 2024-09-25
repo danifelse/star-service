@@ -1,14 +1,24 @@
-import { useState } from 'react'
+import { useEffect } from 'react';
+import { useSelector } from 'react-redux';
+import Navbar from './components/Layout/Navbar';
 
 function App() {
-  const [count, setCount] = useState(0)
+  const darkMode = useSelector((state) => state.darkMode.darkMode);
+  useEffect(() => {
+    if (darkMode) {
+      document.body.classList.add("dark");
+    } else {
+      document.body.classList.remove("dark");
+    }
+  });
 
   return (
-    <>
-      <div>
+    <div>
+      <Navbar />
+      <div className='h-screen flex items-center justify-center dark:text-white dark:bg-slate-900'>
         <h1 className='text-3xl font-bold text-center'>STAR SERVICE</h1>
       </div>
-    </>
+    </div>
   )
 }
 
