@@ -8,6 +8,7 @@ import Section1 from './components/Fragments/Section1';
 import Section2 from './components/Fragments/Section2';
 import Section3 from './components/Fragments/Section3';
 import WAButton from './components/Button/WAButton';
+import Section4 from './components/Fragments/Section4';
 
 function App() {
   const darkMode = useSelector((state) => state.darkMode.darkMode);
@@ -29,6 +30,7 @@ function App() {
       <WAButton />
       <Section2 />
       <Section3 />
+      <Section4 />
       <Footer />
     </div>
   )
