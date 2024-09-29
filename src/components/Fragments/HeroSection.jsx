@@ -104,7 +104,7 @@ export default function HeroSection() {
               </a>
             </div>
             <div className="flex justify-end">
-            <a href="#contact" className="bg-gradient-to-r from-orange-600 to-red-700 hover:from-red-800 hover:to-orange-800 text-white font-bold py-2 px-4 rounded-full">
+            <a href="https://api.whatsapp.com/send?phone=6281323413143" target="_blank" className="bg-gradient-to-r from-orange-600 to-red-700 hover:from-red-800 hover:to-orange-800 text-white font-bold py-2 px-4 rounded-full">
             Hubungi Kami
           </a>
             </div>
