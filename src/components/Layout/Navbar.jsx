@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import { CiDark, CiLight } from "react-icons/ci";
 import { useDispatch, useSelector } from "react-redux";
 import { toggleDarkMode } from "../../redux/slices/DarkModeSlice";
+import { GrStarOutline } from "react-icons/gr";
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);
@@ -21,7 +22,7 @@ export default function Navbar() {
 
   useEffect(() => {
     const handleScroll = () => {
-      const sections = ["home", "about", "portfolio", "contact"]; // Daftar ID section yang ingin dipantau
+      const sections = ["home", "section2", "portfolio", "contact"]; // Daftar ID section yang ingin dipantau
 
       sections.forEach((sectionId) => {
         const section = document.getElementById(sectionId);
@@ -69,16 +70,14 @@ export default function Navbar() {
       <div className="container">
         <div className="flex items-center justify-between relative">
           <div className="px-4 flex place-items-center">
-            <img
-              src="/icons/d.png"
-              alt="d"
-              className="h-8 inline-block pb-1 mr-[3px]"
-            />
             <a
               href="#"
-              className={`font-bold  text-3xl block py-1 hover:opacity-80 text-primary tracking-widest `}
+              className={`font-bold  text-xl md:text-2xl lg:text-3xl block py-1 hover:opacity-800 text-orange-500 tracking-widest flex items-center`}
             >
-              <span className="text-blue-500">anS</span>
+              <span>S T</span>
+              <GrStarOutline className="inline me-1"/>
+              <span> R</span>
+              <span className="ms-2">Service</span>
             </a>
           </div>
           <div className="flex items-center px-4">
@@ -96,18 +95,18 @@ export default function Navbar() {
                     }
                     }`}
                   >
-                    Beranda
+                    Home
                   </a>
                 </li>
                 <li className="group  flex">
                   <a
-                    href="#about"
+                    href="#section2"
                     className={`nav-link text-base text-dark dark:text-white py-2 mx-8 group-hover:text-primary ${
-                      activeSection === "about" ? "active" : ""
+                      activeSection === "section2" ? "active" : ""
                     }
                     }`}
                   >
-                    Tentang Saya
+                    Our Service
                   </a>
                 </li>
                 <li className="group  flex">
@@ -118,7 +117,7 @@ export default function Navbar() {
                     }
                     }`}
                   >
-                    Portfolio
+                    About US
                   </a>
                 </li>
                 <li className="group  flex">
