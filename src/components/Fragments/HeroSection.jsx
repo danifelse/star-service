@@ -75,28 +75,28 @@ export default function HeroSection() {
             <hr className=" border-t-4 mb-5" />
             <div className="flex justify-end mb-4 mt-5 px-1 cursor-pointer">
               <a
-                href="https://wa.me/c/628118811647"
+                href="https://api.whatsapp.com/send?phone=6281323413143"
                 target="_blank"
                 className="text-orange-700 group hover:text-orange-900 transition-all duration-500"
               >
                 <FaWhatsapp className="inline-block h-6 w-6 me-2 group-hover:-translate-y-4 transition-all duration-500" />
               </a>
               <a
-                href="https://www.instagram.com/peacegraph_/"
+                href="https://www.instagram.com/starservice_itcroxy/"
                 target="_blank"
                 className="text-orange-700 group hover:text-orange-900 transition-all duration-500"
               >
                 <FaInstagram className="inline-block h-6 w-6 me-2 group-hover:-translate-y-4 transition-all duration-500" />
               </a>
               <a
-                href="http://tiktok.com/@peacegraph7"
+                href="http://tiktok.com/@starservice_itcroxy"
                 target="_blank"
                 className="text-orange-700 group hover:text-orange-900 transition-all duration-500"
               >
                 <FaTiktok className="inline-block h-5 w-6 me-2 group-hover:-translate-y-4 transition-all duration-500" />
               </a>
               <a
-                href="https://goo.gl/maps/MgK7c1U1Sw7yiGdN8"
+                href="https://maps.app.goo.gl/CxNwiQ5ZQkdZkG3r5"
                 target="_blank"
                 className="text-orange-700 group hover:text-orange-900 transition-all duration-500"
               >

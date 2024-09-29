@@ -48,7 +48,8 @@ export default function Footer() {
               Ada yang ingin anda tanyakan ?
             </p>
             <a
-              href="https://wa.me/c/628118811647"
+              href="https://api.whatsapp.com/send?phone=6281323413143"
+              target="_blank"
               className="py-2.5 px-5 h-9 block w-fit bg-gradient-to-r from-orange-600 to-red-700 hover:opacity-80 rounded-full shadow-sm text-xs text-white mx-auto transition-all  duration-500 hover:bg-indigo-700 lg:mx-0"
             >
               Hubungi Kami
@@ -88,12 +89,12 @@ export default function Footer() {
             <ul className="text-sm  transition-all duration-500">
               <li className="mb-3">
                 <p className="text-gray-600 whitespace-nowrap hover:text-gray-900 dark:text-slate-300">
-                  Senin - Jumat: 08.00 - 22.00
+                  Senin - Jumat: 09.00 - 22.00
                 </p>
               </li>
               <li className="mb-3">
                 <p className="text-gray-600 whitespace-nowrap hover:text-gray-900 dark:text-slate-300">
-                  Sabtu - Minggu: 08.00 - 17.00
+                  Sabtu - Minggu: 09.00 - 22.00
                 </p>
               </li>
             </ul>
@@ -117,21 +118,21 @@ export default function Footer() {
                 <FaWhatsapp className="inline-block h-6 w-6 me-2 group-hover:-translate-y-4 transition-all duration-500" />
               </a>
               <a
-                href="https://www.instagram.com/peacegraph_/"
+                href="https://www.instagram.com/starservice_itcroxy/"
                 target="_blank"
                 className="text-gray-700 group hover:text-orange-900 dark:text-orange-300 transition-all duration-500"
               >
                 <FaInstagram className="inline-block h-6 w-6 me-2 group-hover:-translate-y-4 transition-all duration-500" />
               </a>
               <a
-                href="http://tiktok.com/@peacegraph7"
+                href="http://tiktok.com/@starservice_itcroxy"
                 target="_blank"
                 className="text-gray-700 group hover:text-orange-900 dark:text-orange-300 transition-all duration-500"
               >
                 <FaTiktok className="inline-block h-5 w-6 me-2 group-hover:-translate-y-4 transition-all duration-500" />
               </a>
               <a
-                href="https://goo.gl/maps/MgK7c1U1Sw7yiGdN8"
+                href="https://maps.app.goo.gl/CxNwiQ5ZQkdZkG3r5"
                 target="_blank"
                 className="text-gray-700 group hover:text-orange-900 dark:text-orange-300 transition-all duration-500"
               >
