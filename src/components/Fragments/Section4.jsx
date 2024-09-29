@@ -10,8 +10,8 @@ export default function Section4() {
                             <p>kami siap memberikan solusi terbaik dan cepat, selalu siap mengatasi tantangan terbesar untuk memastikan perangkat Anda kembali berfungsi optimal.</p>
                         </div>
                         <div className="grid grid-cols-2 gap-4 mt-8">
-                            <img className="w-full rounded-lg" src="./images/repair.jpeg" alt="office content 1" />
-                            <img className="mt-4 w-full lg:mt-10 rounded-lg" src="./images/repair2.jpg" alt="office content 2" />
+                            <img className="w-full rounded-lg aspect-[2/3]" src="./images/repair2.jpg" alt="office content 1" />
+                            <img className="mt-4 w-full lg:mt-10 rounded-lg aspect-[2/3]" src="./images/repair.jpeg" alt="office content 2" />
                         </div>
                     </div>
                 </div>
