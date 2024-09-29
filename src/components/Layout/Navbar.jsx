@@ -22,7 +22,7 @@ export default function Navbar() {
 
   useEffect(() => {
     const handleScroll = () => {
-      const sections = ["home", "section2", "portfolio", "contact"]; // Daftar ID section yang ingin dipantau
+      const sections = ["home", "section2", "section4", "contact"]; // Daftar ID section yang ingin dipantau
 
       sections.forEach((sectionId) => {
         const section = document.getElementById(sectionId);
@@ -111,9 +111,9 @@ export default function Navbar() {
                 </li>
                 <li className="group  flex">
                   <a
-                    href="#portfolio"
+                    href="#section4"
                     className={`nav-link text-base text-dark dark:text-white py-2 mx-8 group-hover:text-primary ${
-                      activeSection === "portfolio" ? "active" : ""
+                      activeSection === "section4" ? "active" : ""
                     }
                     }`}
                   >
