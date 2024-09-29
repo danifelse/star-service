@@ -2,6 +2,15 @@
 @tailwind components;
 @tailwind utilities;
 
+@layer base {
+  body {
+    @apply overflow-x-hidden;
+  }
+  html {
+    @apply scroll-smooth;
+  }
+}
+
 .hamburger-line {
   @apply w-[30px] h-[2px] my-2 block bg-dark dark:bg-slate-300;
 }
@@ -19,6 +28,7 @@
 .navbar-hide {
   @apply -translate-y-full opacity-0 transition-all ease-out duration-500;
 }
+
 
 .navbar-scrolled {
   @apply fixed z-50  bg-white bg-opacity-70 translate-y-0 opacity-100 backdrop-blur-sm dark:bg-dark dark:bg-opacity-80;
