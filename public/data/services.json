@@ -1,0 +1,114 @@
+[
+    {
+      "title": "Bonding IC",
+      "desc": "Perbaikan atau penyambungan kembali komponen IC yang rusak atau lepas pada motherboard ponsel."
+    },
+    {
+      "title": "Ganti Flexible Samsung Z Fold & Z Flip",
+      "desc": "Penggantian kabel fleksibel pada seri Samsung Z Fold dan Z Flip yang sering rusak karena desain lipatnya."
+    },
+    {
+      "title": "Ganti Kaca",
+      "desc": "Penggantian kaca layar ponsel yang retak atau pecah tanpa mengganti seluruh LCD."
+    },
+    {
+      "title": "Mati Total",
+      "desc": "Perbaikan untuk ponsel yang tidak bisa menyala, biasanya karena kerusakan hardware atau software."
+    },
+    {
+      "title": "Ganti Emmc /Change Emmc",
+      "desc": "Penggantian chip memori internal (eMMC) yang rusak pada ponsel Android."
+    },
+    {
+      "title": "Gak Bisa Ngecas/No Charging",
+      "desc": "Perbaikan masalah pengisian daya, seperti port charger yang rusak atau komponen internal lainnya."
+    },
+    {
+      "title": "Kena Air/Water Damage",
+      "desc": "Perbaikan ponsel yang terkena air atau cairan, yang merusak komponen internal."
+    },
+    {
+      "title": "Lupa Pola atau Kata Sandi",
+      "desc": "Membuka kunci ponsel yang terkunci karena lupa pola atau kata sandi."
+    },
+    {
+      "title": "Lupa Akun Google",
+      "desc": "Bypass atau recovery akun Google yang terkunci, terutama setelah reset pabrik."
+    },
+    {
+      "title": "Restart",
+      "desc": "Perbaikan ponsel yang sering restart sendiri, disebabkan oleh masalah hardware atau software."
+    },
+    {
+      "title": "Hank Logo/Stuck di Logo",
+      "desc": "Perbaikan ponsel yang terjebak di logo saat booting, tidak masuk ke sistem operasi."
+    },
+    {
+      "title": "Ganti IC Nand Flash iPhone",
+      "desc": "Penggantian chip NAND Flash yang mengontrol penyimpanan data dan kinerja iPhone."
+    },
+    {
+      "title": "Tidak Ada Layanan/Mencari/Searching",
+      "desc": "Perbaikan masalah sinyal seluler yang menyebabkan ponsel tidak terhubung ke jaringan."
+    },
+    {
+      "title": "Gak Bisa Baca SIM",
+      "desc": "Perbaikan ponsel yang tidak dapat mendeteksi kartu SIM, disebabkan oleh masalah hardware atau software."
+    },
+    {
+      "title": "Up to Memory Internal Android/iPhone",
+      "desc": "Upgrade kapasitas penyimpanan internal ponsel, baik untuk Android maupun iPhone."
+    },
+    {
+      "title": "Ganti Casing/Frame",
+      "desc": "Penggantian casing atau rangka ponsel yang rusak atau tergores."
+    },
+    {
+      "title": "Ganti Kamera/Camera",
+      "desc": "Penggantian modul kamera yang rusak atau tidak berfungsi dengan baik."
+    },
+    {
+      "title": "LCD Pecah/Ganti LCD/Change LCD",
+      "desc": "Penggantian layar LCD yang rusak atau pecah."
+    },
+    {
+      "title": "Ganti Batre ORI 100%, Ada Juga Batre Biasa",
+      "desc": "Penggantian baterai dengan baterai original 100% atau baterai biasa."
+    },
+    {
+      "title": "Ganti Kaca/Repair Glass",
+      "desc": "Penggantian kaca depan ponsel tanpa mengganti layar LCD."
+    },
+    {
+      "title": "LCD Blank/Blue Screen",
+      "desc": "Perbaikan layar yang tidak menampilkan gambar (blank) atau mengalami blue screen."
+    },
+    {
+      "title": "Bypass iCloud",
+      "desc": "Membuka iPhone yang terkunci oleh iCloud agar bisa diakses kembali."
+    },
+    {
+      "title": "Unlock Jaringan",
+      "desc": "Membuka kunci jaringan ponsel agar bisa digunakan dengan operator lain."
+    },
+    {
+      "title": "Upgrade OS",
+      "desc": "Update sistem operasi ke versi terbaru, baik Android maupun iOS."
+    },
+    {
+      "title": "Software",
+      "desc": "Perbaikan masalah software, termasuk pembaruan firmware dan aplikasi."
+    },
+    {
+      "title": "Gak Ada Sinyal/No Signal",
+      "desc": "Perbaikan ponsel yang tidak dapat menangkap sinyal seluler."
+    },
+    {
+      "title": "Ganti Mic & Speaker",
+      "desc": "Penggantian mikrofon dan speaker yang rusak."
+    },
+    {
+      "title": "Terkena Virus",
+      "desc": "Membersihkan ponsel dari virus atau malware yang mengganggu kinerja perangkat."
+    }
+  ]
