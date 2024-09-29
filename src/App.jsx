@@ -1,6 +1,13 @@
 import { useEffect } from 'react';
 import { useSelector } from 'react-redux';
 import Navbar from './components/Layout/Navbar';
+import HeroSection from './components/Fragments/HeroSection';
+import FloatingBackgrund from './components/Layout/FloatingBackground';
+import Footer from './components/Layout/Footer';
+import Section1 from './components/Fragments/Section1';
+import Section2 from './components/Fragments/Section2';
+import Section3 from './components/Fragments/Section3';
+import WAButton from './components/Button/WAButton';
 
 function App() {
   const darkMode = useSelector((state) => state.darkMode.darkMode);
@@ -15,9 +22,14 @@ function App() {
   return (
     <div>
       <Navbar />
-      <div className='h-screen flex items-center justify-center dark:text-white dark:bg-slate-900'>
-        <h1 className='text-3xl font-bold text-center'>STAR SERVICE</h1>
-      </div>
+      <FloatingBackgrund>
+        <HeroSection />
+      </FloatingBackgrund>
+      <Section1 />
+      <WAButton />
+      <Section2 />
+      <Section3 />
+      <Footer />
     </div>
   )
 }
