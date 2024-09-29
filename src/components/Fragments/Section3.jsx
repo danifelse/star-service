@@ -6,7 +6,7 @@ export default function Section3() {
         <section id="section3" className="lg:pt-30 md:pt-20 pt-16 dark:bg-dark ">
             <div className="dark:bg-slate-800 bg-orange-500">
                 <div className="container px-4 py-12">
-                    <h1 className=" text-center md:text-xl text-lg lg:text-2xl font-bold text-white">Manfaat Perbaikan di Star Service</h1>
+                    <h1 className="px-4 md:text-center md:text-3xl text-2xl lg:text-4xl font-bold text-white">Manfaat Perbaikan di Star Service</h1>
                     <div className=" flex flex-wrap justify-center gap-8 mt-10 px-4 lg:px-16">
                         {benefits.map((benefit, index) => (
                             <CardBenefit key={index} title={benefit.title} desc={benefit.desc} img={benefit.img} />
