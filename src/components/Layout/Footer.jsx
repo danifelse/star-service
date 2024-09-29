@@ -56,7 +56,7 @@ export default function Footer() {
           </div>
           {/* <!--End Col--> */}
           <div className="lg:mx-auto  max-w-xs col-span-2">
-            <h4 className="text-lg text-gray-900 font-medium mb-7">Lokasi</h4>
+            <h4 className="text-lg text-gray-900 dark:text-white font-medium mb-7">Lokasi</h4>
             <ul className="text-sm  transition-all duration-500">
               <li className="mb-3">
                 <p className="text-gray-600 whitespace-nowrap hover:text-gray-900 dark:text-slate-300">
@@ -82,7 +82,7 @@ export default function Footer() {
           </div>
           {/* <!--End Col--> */}
           <div className="lg:mx-auto text-left col-span-2">
-            <h4 className="text-lg text-gray-900 font-medium mb-7">
+            <h4 className="text-lg text-gray-900 dark:text-white font-medium mb-7">
               Jam Kerja
             </h4>
             <ul className="text-sm  transition-all duration-500">
