@@ -1,111 +1,128 @@
 [
     {
       "title": "Bonding IC",
-      "desc": "Perbaikan atau penyambungan kembali komponen IC yang rusak atau lepas pada motherboard ponsel."
+      "desc": "Perbaikan atau penyambungan kembali komponen IC yang rusak.",
+      "img": "./images/ic-repair.jpg"
     },
     {
-      "title": "Ganti Flexible Samsung Z Fold & Z Flip",
-      "desc": "Penggantian kabel fleksibel pada seri Samsung Z Fold dan Z Flip yang sering rusak karena desain lipatnya."
+      "title": "Ganti Flexible Samsung Z",
+      "desc": "Penggantian kabel fleksibel pada seri Samsung Z Fold dan Z Flip yang sering rusak.",
+      "img": "./images/flexible-repair.jpeg"
     },
     {
       "title": "Ganti Kaca",
-      "desc": "Penggantian kaca layar ponsel yang retak atau pecah tanpa mengganti seluruh LCD."
+      "desc": "Penggantian kaca layar ponsel yang retak atau pecah tanpa mengganti seluruh LCD.",
+      "img": "./images/kaca-repair.jpeg"
     },
     {
       "title": "Mati Total",
-      "desc": "Perbaikan untuk ponsel yang tidak bisa menyala, biasanya karena kerusakan hardware atau software."
+      "desc": "Perbaikan untuk ponsel yang tidak bisa menyala, karena kerusakan hardware atau software.",
+      "img": "./images/iphone-repair.jpg"
     },
     {
       "title": "Ganti Emmc /Change Emmc",
-      "desc": "Penggantian chip memori internal (eMMC) yang rusak pada ponsel Android."
+      "desc": "Penggantian chip memori internal (eMMC) yang rusak pada ponsel Android.",
+      "img": "./images/ic-repair.jpg"
     },
     {
       "title": "Gak Bisa Ngecas/No Charging",
-      "desc": "Perbaikan masalah pengisian daya, seperti port charger yang rusak atau komponen internal lainnya."
+      "desc": "Perbaikan masalah pengisian daya, seperti port charger yang rusak atau komponen lainnya.",
+      "img": "./images/no-charging.jpeg"
     },
     {
       "title": "Kena Air/Water Damage",
-      "desc": "Perbaikan ponsel yang terkena air atau cairan, yang merusak komponen internal."
+      "desc": "Perbaikan ponsel yang terkena air atau cairan, yang merusak komponen internal.",
+      "img": "./images/water-repair.jpg"
     },
     {
       "title": "Lupa Pola atau Kata Sandi",
-      "desc": "Membuka kunci ponsel yang terkunci karena lupa pola atau kata sandi."
+      "desc": "Membuka kunci ponsel yang terkunci karena lupa pola atau kata sandi.",
+      "img": "./images/pola-repair.jpg"
     },
     {
       "title": "Lupa Akun Google",
-      "desc": "Bypass atau recovery akun Google yang terkunci, terutama setelah reset pabrik."
-    },
-    {
-      "title": "Restart",
-      "desc": "Perbaikan ponsel yang sering restart sendiri, disebabkan oleh masalah hardware atau software."
+      "desc": "Bypass atau recovery akun Google yang terkunci, terutama setelah reset pabrik.",
+      "img": "./images/google-repair.jpg"
     },
     {
       "title": "Hank Logo/Stuck di Logo",
-      "desc": "Perbaikan ponsel yang terjebak di logo saat booting, tidak masuk ke sistem operasi."
+      "desc": "Perbaikan ponsel yang terjebak di logo saat booting, tidak masuk ke sistem operasi.",
+      "img": "./images/logo-repair.jpg"
     },
     {
-      "title": "Ganti IC Nand Flash iPhone",
-      "desc": "Penggantian chip NAND Flash yang mengontrol penyimpanan data dan kinerja iPhone."
+      "title": "Ganti IC and Flash iPhone",
+      "desc": "Penggantian chip NAND Flash yang mengontrol penyimpanan data dan kinerja iPhone.",
+      "img": "./images/ic-repair.jpg"
     },
     {
       "title": "Tidak Ada Layanan/Mencari/Searching",
-      "desc": "Perbaikan masalah sinyal seluler yang menyebabkan ponsel tidak terhubung ke jaringan."
+      "desc": "Perbaikan masalah sinyal seluler yang menyebabkan ponsel tidak terhubung ke jaringan.",
+      "img": "./images/no-service-repair.jpg"
     },
     {
       "title": "Gak Bisa Baca SIM",
-      "desc": "Perbaikan ponsel yang tidak dapat mendeteksi kartu SIM, disebabkan oleh masalah hardware atau software."
+      "desc": "Perbaikan ponsel yang tidak dapat mendeteksi kartu SIM, disebabkan masalah hardware atau software.",
+      "img": "./images/sim-repair.jpg"
     },
     {
-      "title": "Up to Memory Internal Android/iPhone",
-      "desc": "Upgrade kapasitas penyimpanan internal ponsel, baik untuk Android maupun iPhone."
+      "title": "Up to Memory Internal",
+      "desc": "Upgrade kapasitas penyimpanan internal ponsel, baik untuk Android maupun iPhone.",
+      "img": "./images/memory-repair.jpg"
     },
     {
       "title": "Ganti Casing/Frame",
-      "desc": "Penggantian casing atau rangka ponsel yang rusak atau tergores."
+      "desc": "Penggantian casing atau rangka ponsel yang rusak atau tergores.",
+      "img": "./images/frame-repair.jpg"
     },
     {
       "title": "Ganti Kamera/Camera",
-      "desc": "Penggantian modul kamera yang rusak atau tidak berfungsi dengan baik."
+      "desc": "Penggantian modul kamera yang rusak atau tidak berfungsi dengan baik.",
+      "img": "./images/camera-repair.jpg"
     },
     {
       "title": "LCD Pecah/Ganti LCD/Change LCD",
-      "desc": "Penggantian layar LCD yang rusak atau pecah."
+      "desc": "Penggantian layar LCD yang rusak atau pecah.",
+      "img": "./images/lcd-repair.jpg"
     },
     {
       "title": "Ganti Batre ORI 100%, Ada Juga Batre Biasa",
-      "desc": "Penggantian baterai dengan baterai original 100% atau baterai biasa."
+      "desc": "Penggantian baterai dengan baterai original 100% atau baterai biasa.",
+      "img": "./images/battery-repair.jpg"
     },
     {
       "title": "Ganti Kaca/Repair Glass",
-      "desc": "Penggantian kaca depan ponsel tanpa mengganti layar LCD."
+      "desc": "Penggantian kaca depan ponsel tanpa mengganti layar LCD.",
+      "img": "./images/kaca-repair.jpeg"
     },
     {
       "title": "LCD Blank/Blue Screen",
-      "desc": "Perbaikan layar yang tidak menampilkan gambar (blank) atau mengalami blue screen."
+      "desc": "Perbaikan layar yang tidak menampilkan gambar (blank) atau mengalami blue screen.",
+      "img": "./images/blank-repair.jpg"
     },
     {
       "title": "Bypass iCloud",
-      "desc": "Membuka iPhone yang terkunci oleh iCloud agar bisa diakses kembali."
-    },
-    {
-      "title": "Unlock Jaringan",
-      "desc": "Membuka kunci jaringan ponsel agar bisa digunakan dengan operator lain."
+      "desc": "Membuka iPhone yang terkunci oleh iCloud agar bisa diakses kembali.",
+      "img": "./images/bypass-repair.jpeg"
     },
     {
       "title": "Upgrade OS",
-      "desc": "Update sistem operasi ke versi terbaru, baik Android maupun iOS."
+      "desc": "Update sistem operasi ke versi terbaru, baik Android maupun iOS.",
+      "img": "./images/os-repair.jpg"
     },
     {
       "title": "Software",
-      "desc": "Perbaikan masalah software, termasuk pembaruan firmware dan aplikasi."
+      "desc": "Perbaikan masalah software, termasuk pembaruan firmware dan aplikasi.",
+      "img": "./images/software-repair.jpg"
     },
     {
       "title": "Gak Ada Sinyal/No Signal",
-      "desc": "Perbaikan ponsel yang tidak dapat menangkap sinyal seluler."
+      "desc": "Perbaikan ponsel yang tidak dapat menangkap sinyal seluler.",
+      "img": "./images/signal-repair.jpg"
     },
     {
       "title": "Ganti Mic & Speaker",
-      "desc": "Penggantian mikrofon dan speaker yang rusak."
+      "desc": "Penggantian mikrofon dan speaker yang rusak.",
+      "img": "./images/iphone-repair.jpg"
     },
     {
       "title": "Terkena Virus",

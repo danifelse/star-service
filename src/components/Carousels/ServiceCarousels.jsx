@@ -2,6 +2,7 @@ import CardService from "../Card/CardService";
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
+import ServiceCard from "../Card/ServiceCard";
 
 
 export default function ServiceCarousels({services, index = 0}) {
@@ -60,7 +61,8 @@ export default function ServiceCarousels({services, index = 0}) {
       return (
         <Slider {...settings} className="w-full h-full ">
           {services.map((service, index) => (
-            <CardService key={index} title={service.title} desc={service.desc} />
+            // <CardService key={index} title={service.title} desc={service.desc} />
+            <ServiceCard key={index} title={service.title} desc={service.desc} img={service.img} />
           ))}
         </Slider>
       );
