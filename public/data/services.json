@@ -55,7 +55,7 @@
       "img": "./images/ic-repair.jpg"
     },
     {
-      "title": "Tidak Ada Layanan/Mencari/Searching",
+      "title": "Tidak Ada Layanan",
       "desc": "Perbaikan masalah sinyal seluler yang menyebabkan ponsel tidak terhubung ke jaringan.",
       "img": "./images/no-service-repair.jpg"
     },
@@ -77,7 +77,7 @@
     {
       "title": "Ganti Kamera/Camera",
       "desc": "Penggantian modul kamera yang rusak atau tidak berfungsi dengan baik.",
-      "img": "./images/camera-repair.jpg"
+      "img": "./images/camera-repair.jpeg"
     },
     {
       "title": "LCD Pecah/Ganti LCD/Change LCD",
@@ -97,7 +97,7 @@
     {
       "title": "LCD Blank/Blue Screen",
       "desc": "Perbaikan layar yang tidak menampilkan gambar (blank) atau mengalami blue screen.",
-      "img": "./images/blank-repair.jpg"
+      "img": "./images/blank-repair.png"
     },
     {
       "title": "Bypass iCloud",
@@ -117,7 +117,7 @@
     {
       "title": "Gak Ada Sinyal/No Signal",
       "desc": "Perbaikan ponsel yang tidak dapat menangkap sinyal seluler.",
-      "img": "./images/signal-repair.jpg"
+      "img": "./images/signal-repair.jpeg"
     },
     {
       "title": "Ganti Mic & Speaker",
@@ -126,6 +126,7 @@
     },
     {
       "title": "Terkena Virus",
-      "desc": "Membersihkan ponsel dari virus atau malware yang mengganggu kinerja perangkat."
+      "desc": "Membersihkan ponsel dari virus atau malware yang mengganggu kinerja perangkat.",
+      "img": "./images/logo-repair.jpg"
     }
   ]
