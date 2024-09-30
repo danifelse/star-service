@@ -12,7 +12,7 @@ export default function ServiceCarousels({services, index = 0}) {
         autoplaySpeed: 3000,
         infinite: true,
         slidesToShow: 3,
-        dots: false,
+        dots: true,
         speed: 500,
         rows: 2,
         slidesPerRow: 1,
