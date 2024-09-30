@@ -23,7 +23,7 @@ export default function Section2() {
     return (
         <section id="section2" className="lg:pt-30 md:pt-20 pt-16 dark:bg-dark">
             <div className="container">
-                <div className="px-4 flex flex-col lg:flex-row gap-4 lg:h-[600px] relative z-[0] ">
+                <div className="px-4 flex flex-col lg:flex-row gap-4 lg:h-[660px] relative z-[0] overflow-hidden ">
                     <div className= "w-full h-full lg:w-[25%] border border-gray-200 rounded-3xl grid place-items-center lg:place-items-start relative z-0 overflow-hidden">
                         <img src="./images/model-tr.png" 
                         className="aspect-[1/1] lg:aspect-[9/20] object-cover object-top" 
@@ -38,7 +38,7 @@ export default function Section2() {
                                 <hr className="bg-gradient-to-r from-orange-500 to-orange-600 w-full text-orange-600" />
                             </div>
                         </div>
-                        <div className="z-10 lg:h-[530px] relative"
+                        <div className="z-10 lg:h-[590px] relative"
                          data-aos="fade-left"
                          data-aos-duration="1000">
                             <ServiceCarousels services={services} index={0} />

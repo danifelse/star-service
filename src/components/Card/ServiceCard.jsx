@@ -1,6 +1,6 @@
 export default function ServiceCard({ title, desc, img }) {
     return (
-        <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mx-4 mb-4">
+        <div class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mx-4 mb-4 flex flex-col justify-between">
             <div>
                 <div className="px-4 pt-4">
                     <img class="rounded-t-lg aspect-[3/2] object-cover" src={img} alt="images" />
