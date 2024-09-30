@@ -9,12 +9,12 @@ export default function ServiceCarousels({services, index = 0}) {
     const settings = {
         className: "center",
         autoplay: true,
-        autoplaySpeed: 2000,
+        autoplaySpeed: 3000,
         infinite: true,
         slidesToShow: 3,
         dots: false,
         speed: 500,
-        rows: 3,
+        rows: 2,
         slidesPerRow: 1,
         nextArrow: <NextArrow index={index} />,
         prevArrow: <PrevArrow index={index} />,
@@ -51,7 +51,7 @@ export default function ServiceCarousels({services, index = 0}) {
             breakpoint: 1024,
             settings: {
               slidesToShow: 3,
-              rows: 3,
+              rows:2,
               slidesToScroll: 2,
               infinite: true,
             },
