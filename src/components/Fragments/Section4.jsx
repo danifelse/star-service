@@ -7,7 +7,7 @@ export default function Section4() {
                         <div className="font-light text-gray-500 sm:text-lg dark:text-gray-400">
                             <h2 className="mb-4 text-2xl md:text-3xl lg:text-4xl tracking-tight font-extrabold text-gray-900 dark:text-white">Star Service ada untukmu</h2>
                             <p className="mb-4">Kami memberikan layanan terbaik dengan teknisi smartphone berpengalaman dan pemecah masalah yang handal. Kami dapat menangani berbagai jenis perbaikan, dari kerusakan fisik hingga masalah perangkat lunak yang kompleks. Apapun masalahnya—layar pecah, baterai rusak, atau perangkat lunak bermasalah.</p>
-                            <p>kami siap memberikan solusi terbaik dan cepat, selalu siap mengatasi tantangan terbesar untuk memastikan perangkat Anda kembali berfungsi optimal.</p>
+                            <p>kami siap memberikan solusi terbaik dan cepat, selalu siap mengatasi tantangan terbesar untuk memastikan gadget Anda kembali berfungsi optimal.</p>
                         </div>
                         <div className="grid grid-cols-2 gap-4 mt-8">
                             <img className="w-full rounded-lg aspect-[2/3]" src="./images/repair2.jpg" alt="office content 1" />

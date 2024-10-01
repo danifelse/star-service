@@ -21,17 +21,17 @@ export default function Section3() {
 export const benefits = [ 
         {
           "title": "Garansi Perbaikan",
-          "desc": "Kami menawarkan garansi pada perbaikan kami. Jika perbaikan asli gagal karena cacat pada suku cadang yang kami pasang atau karena kesalahan dalam pengerjaan saat memperbaiki perangkat.",
+          "desc": "Kami menawarkan garansi pada perbaikan kami. Jika perbaikan asli gagal karena cacat pada suku cadang yang kami pasang atau karena kesalahan dalam pengerjaan saat memperbaiki gadgetmu.",
           "img": "./images/warranty.jpg"
         },
         {
           "title": "Teknisi Ahli yang Beneran Jago",
-          "desc": "Kamu pasti mau teknisi terbaik yang ngerjain perangkat kamu, kan? Tenang, teknisi kita udah pro banget, jaminan bisa bikin perangkat kamu kembali kayak baru lagi.",
+          "desc": "Kamu pasti mau teknisi terbaik yang ngerjain gadget kamu, kan? Tenang, teknisi kita udah pro banget, jaminan bisa bikin gadget kamu kembali kayak baru lagi.",
           "img": "./images/teknisi.jpeg"
         },
         {
           "title": "Perbaikan Cepat",
-          "desc": "Kita bener-bener paham soal ini, makanya perbaikan kita gak cuma cepet tapi juga berkualitas. Kita ngerti banget gimana nyebelinnya perangkat rusak, jadi kita usahain supaya kamu bisa balik terkoneksi secepat mungkin.",
+          "desc": "Kita bener-bener paham soal ini, makanya perbaikan kita gak cuma cepet tapi juga berkualitas. Kita ngerti banget gimana nyebelinnya gadget rusak, jadi kita usahain supaya kamu bisa balik terkoneksi secepat mungkin.",
           "img": "./images/model2.jpeg"
         }
 ]

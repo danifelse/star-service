@@ -29,7 +29,7 @@ export default function HeroSection() {
                 }}
                 getBeforeInit={(instance) => {
                   instance
-                    .type("Perbaik1*gadgetmu")
+                    .type("Perbaiki1*gadgetmu")
                     .pause(750)
                     .move(-8)
                     .pause(200)

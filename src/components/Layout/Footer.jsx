@@ -66,7 +66,7 @@ export default function Footer() {
               </li>
               <li className="mb-3">
                 <p className="text-gray-600 whitespace-nowrap hover:text-gray-900 dark:text-slate-300">
-                  Lantai 2 No.135
+                  Lantai 2 No.134 - 135
                 </p>
               </li>
               <li className="mb-3">
@@ -89,12 +89,7 @@ export default function Footer() {
             <ul className="text-sm  transition-all duration-500">
               <li className="mb-3">
                 <p className="text-gray-600 whitespace-nowrap hover:text-gray-900 dark:text-slate-300">
-                  Senin - Jumat: 09.00 - 22.00
-                </p>
-              </li>
-              <li className="mb-3">
-                <p className="text-gray-600 whitespace-nowrap hover:text-gray-900 dark:text-slate-300">
-                  Sabtu - Minggu: 09.00 - 22.00
+                  Setiap Hari: 10.00 AM - 21.00 PM
                 </p>
               </li>
             </ul>
