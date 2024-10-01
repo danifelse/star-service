@@ -52,7 +52,7 @@ export default function Footer() {
               target="_blank"
               className="py-2.5 px-5 h-9 block w-fit bg-gradient-to-r from-orange-600 to-red-700 hover:opacity-80 rounded-full shadow-sm text-xs text-white mx-auto transition-all  duration-500 hover:bg-indigo-700 lg:mx-0"
             >
-              Hubungi Kami
+              <FaWhatsapp className="inline me-1 text-xl" />0813-2341-3143
             </a>
           </div>
           {/* <!--End Col--> */}

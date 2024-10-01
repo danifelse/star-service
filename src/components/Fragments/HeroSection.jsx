@@ -77,28 +77,28 @@ export default function HeroSection() {
               <a
                 href="https://api.whatsapp.com/send?phone=6281323413143"
                 target="_blank"
-                className="text-orange-700 group hover:text-orange-900 transition-all duration-500"
+                className="text-orange-700 group hover:text-orange-900 dark:hover:text-white transition-all duration-500 inline-block flex items-center relative"
               >
-                <FaWhatsapp className="inline-block h-6 w-6 me-2 group-hover:-translate-y-4 transition-all duration-500" />
+                <span className="inline-block group-hover:-translate-y-4 w-0 group-hover:w-full absolute group-hover:-translate-x-28 opacity-0 group-hover:opacity-100 transition-all duration-500">081323413143</span><FaWhatsapp className="inline-block h-6 w-6 me-2 group-hover:-translate-y-4 transition-all duration-500" />
               </a>
               <a
                 href="https://www.instagram.com/starservice_itcroxy/"
                 target="_blank"
-                className="text-orange-700 group hover:text-orange-900 transition-all duration-500"
+                className="text-orange-700 group hover:text-orange-900 dark:hover:text-white transition-all duration-500"
               >
                 <FaInstagram className="inline-block h-6 w-6 me-2 group-hover:-translate-y-4 transition-all duration-500" />
               </a>
               <a
                 href="http://tiktok.com/@starservice_itcroxy"
                 target="_blank"
-                className="text-orange-700 group hover:text-orange-900 transition-all duration-500"
+                className="text-orange-700 group hover:text-orange-900 dark:hover:text-white transition-all duration-500"
               >
                 <FaTiktok className="inline-block h-5 w-6 me-2 group-hover:-translate-y-4 transition-all duration-500" />
               </a>
               <a
                 href="https://maps.app.goo.gl/CxNwiQ5ZQkdZkG3r5"
                 target="_blank"
-                className="text-orange-700 group hover:text-orange-900 transition-all duration-500"
+                className="text-orange-700 group hover:text-orange-900 dark:hover:text-white transition-all duration-500"
               >
                 <FaLocationDot className="inline-block h-6 w-6 me-2 group-hover:-translate-y-4 transition-all duration-500" />
               </a>
