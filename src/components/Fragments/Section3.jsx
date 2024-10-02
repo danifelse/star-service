@@ -4,7 +4,7 @@ export default function Section3() {
 
     return (
         <section id="section3" className="lg:pt-30 md:pt-20 pt-16 dark:bg-dark ">
-            <div className="dark:bg-slate-800 bg-orange-500">
+            <div className="dark:bg-slate-800 bg-purple-800">
                 <div className="container px-4 py-12">
                     <h1 className="px-4 md:text-center md:text-3xl text-2xl lg:text-4xl font-bold text-white">Manfaat Perbaikan di Star Service</h1>
                     <div className=" flex flex-wrap justify-center gap-8 mt-10 px-4 lg:px-16">

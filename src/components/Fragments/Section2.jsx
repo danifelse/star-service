@@ -31,11 +31,11 @@ export default function Section2() {
                     </div>
                     <div className="w-full h-full lg:w-[75%] border-t border-r border-l border-gray-200 rounded-t-3xl p-4 relative z-10 ">
                         <div className="flex mb-2 ">
-                            <div className=" me-4 bg-gradient-to-r from-orange-500 to-orange-600 hover:opacity-80 inline-block px-4 py-2 rounded-xl">
+                            <div className=" me-4 bg-gradient-to-r from-purple-500 to-purple-600 hover:opacity-80 inline-block px-4 py-2 rounded-xl">
                                 <p className="text-white  text-lg">Layanan Kami <VscTools className="inline" /></p>
                             </div>
-                            <div className="flex-1 flex justify-center items-center text-orange-600">
-                                <hr className="br-t-4 border-orange-600 w-full text-orange-600" />
+                            <div className="flex-1 flex justify-center items-center text-purple-600">
+                                <hr className="br-t-4 border-purple-600 w-full text-purple-600" />
                             </div>
                         </div>
                         <div className="z-10 lg:h-[590px] relative"

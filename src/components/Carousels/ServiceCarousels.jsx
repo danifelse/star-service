@@ -77,7 +77,7 @@ export default function ServiceCarousels({services, index = 0}) {
           } `}
         >
           <button
-            className="bg-orange-500 bg-opacity-60 hover:bg-orange-500 text-white font-bold md:py-2 md:px-4 rounded-full focus:outline-none focus:shadow-outline"
+            className="bg-purple-500 bg-opacity-60 hover:bg-purple-500 text-white font-bold md:py-2 md:px-4 rounded-full focus:outline-none focus:shadow-outline"
             onClick={onClick}
             style={{ ...style }}
           >
@@ -109,7 +109,7 @@ export default function ServiceCarousels({services, index = 0}) {
           } `}
         >
           <button
-            className="bg-orange-500 bg-opacity-60 hover:bg-orange-500 text-white font-bold md:py-2 md:px-4 rounded-full focus:outline-none focus:shadow-outline"
+            className="bg-purple-500 bg-opacity-60 hover:bg-purple-500 text-white font-bold md:py-2 md:px-4 rounded-full focus:outline-none focus:shadow-outline"
             onClick={onClick}
             style={{ ...style }}
           >

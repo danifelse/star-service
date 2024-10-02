@@ -17,7 +17,7 @@ export default function HeroSection() {
         <div className="flex flex-wrap flex-row-reverse">
           <div className="w-full self-center px-4 lg:w-1/2 relative">
             <div className="flex justify-end">
-              <h1 className="text-end lg:text-6xl text-2xl py-2 font-extrabold bg-gradient-to-r from-orange-600 to-red-700 hover:opacity-80 inline-block text-transparent bg-clip-text">
+              <h1 className="text-end lg:text-6xl text-2xl py-2 font-extrabold bg-gradient-to-r from-purple-600 to-purple-900 hover:opacity-80 inline-block text-transparent bg-clip-text">
                 Star Service
               </h1>
             </div>
@@ -77,34 +77,34 @@ export default function HeroSection() {
               <a
                 href="https://api.whatsapp.com/send?phone=6281323413143"
                 target="_blank"
-                className="text-orange-700 group hover:text-orange-900 dark:hover:text-white transition-all duration-500 inline-block flex items-center relative"
+                className="text-purple-700 group hover:text-purple-900 dark:hover:text-white transition-all duration-500 inline-block flex items-center relative"
               >
                 <span className="inline-block group-hover:-translate-y-4 w-0 group-hover:w-full absolute group-hover:-translate-x-28 opacity-0 group-hover:opacity-100 transition-all duration-500">081323413143</span><FaWhatsapp className="inline-block h-6 w-6 me-2 group-hover:-translate-y-4 transition-all duration-500" />
               </a>
               <a
                 href="https://www.instagram.com/starservice_itcroxy/"
                 target="_blank"
-                className="text-orange-700 group hover:text-orange-900 dark:hover:text-white transition-all duration-500"
+                className="text-purple-700 group hover:text-purple-900 dark:hover:text-white transition-all duration-500"
               >
                 <FaInstagram className="inline-block h-6 w-6 me-2 group-hover:-translate-y-4 transition-all duration-500" />
               </a>
               <a
                 href="http://tiktok.com/@starservice_itcroxy"
                 target="_blank"
-                className="text-orange-700 group hover:text-orange-900 dark:hover:text-white transition-all duration-500"
+                className="text-purple-700 group hover:text-purple-900 dark:hover:text-white transition-all duration-500"
               >
                 <FaTiktok className="inline-block h-5 w-6 me-2 group-hover:-translate-y-4 transition-all duration-500" />
               </a>
               <a
                 href="https://maps.app.goo.gl/CxNwiQ5ZQkdZkG3r5"
                 target="_blank"
-                className="text-orange-700 group hover:text-orange-900 dark:hover:text-white transition-all duration-500"
+                className="text-purple-700 group hover:text-purple-900 dark:hover:text-white transition-all duration-500"
               >
                 <FaLocationDot className="inline-block h-6 w-6 me-2 group-hover:-translate-y-4 transition-all duration-500" />
               </a>
             </div>
             <div className="flex justify-end">
-            <a href="https://api.whatsapp.com/send?phone=6281323413143" target="_blank" className="bg-gradient-to-r from-orange-600 to-red-700 hover:from-red-800 hover:to-orange-800 text-white font-bold py-2 px-4 rounded-full">
+            <a href="https://api.whatsapp.com/send?phone=6281323413143" target="_blank" className="bg-gradient-to-r from-purple-600 to-purple-700 hover:from-purple-800 hover:to-purple-800 text-white font-bold py-2 px-4 rounded-full">
             Hubungi Kami
           </a>
             </div>

@@ -23,7 +23,7 @@ export default function Footer() {
               className="py-3 px-6 h-14 border border-gray-300 shadow-sm rounded-full focus:outline-none"
               placeholder="Enter your mail.."
             />
-            <button className="h-14 py-3.5 px-7 bg-gradient-to-r from-orange-600 to-red-700 shadow-sm rounded-full text-white font-bold hover:opacity-80">
+            <button className="h-14 py-3.5 px-7 bg-gradient-to-r from-purple-600 to-purple-800 shadow-sm rounded-full text-white font-bold hover:opacity-80">
               Berlangganan
             </button>
           </div>
@@ -34,7 +34,7 @@ export default function Footer() {
             <div className="flex place-items-center">
                 <a
                 href="#"
-                className={`font-bold  text-xl md:text-2xl lg:text-3xl block py-1 hover:opacity-800 text-orange-500 tracking-widest flex items-center`}
+                className={`font-bold  text-xl md:text-2xl lg:text-3xl block py-1 hover:opacity-800 text-purple-500 tracking-widest flex items-center`}
                 >
                 <span>S T</span>
                 <GrStarOutline className="inline me-1"/>
@@ -50,7 +50,7 @@ export default function Footer() {
             <a
               href="https://api.whatsapp.com/send?phone=6281323413143"
               target="_blank"
-              className="py-2.5 px-5 h-9 block w-fit bg-gradient-to-r from-orange-600 to-red-700 hover:opacity-80 rounded-full shadow-sm text-xs text-white mx-auto transition-all  duration-500 hover:bg-indigo-700 lg:mx-0"
+              className="py-2.5 px-5 h-9 block w-fit bg-gradient-to-r from-purple-600 to-purple-700 hover:opacity-80 rounded-full shadow-sm text-xs text-white mx-auto transition-all  duration-500 hover:bg-indigo-700 lg:mx-0"
             >
               <FaWhatsapp className="inline me-1 text-xl" />0813-2341-3143
             </a>
@@ -108,28 +108,28 @@ export default function Footer() {
               <a
                 href="https://wa.me/c/628118811647"
                 target="_blank"
-                className="text-gray-700 group hover:text-orange-900 dark:text-orange-300 transition-all duration-500"
+                className="text-gray-700 group hover:text-purple-900 dark:text-purple-300 transition-all duration-500"
               >
                 <FaWhatsapp className="inline-block h-6 w-6 me-2 group-hover:-translate-y-4 transition-all duration-500" />
               </a>
               <a
                 href="https://www.instagram.com/starservice_itcroxy/"
                 target="_blank"
-                className="text-gray-700 group hover:text-orange-900 dark:text-orange-300 transition-all duration-500"
+                className="text-gray-700 group hover:text-purple-900 dark:text-purple-300 transition-all duration-500"
               >
                 <FaInstagram className="inline-block h-6 w-6 me-2 group-hover:-translate-y-4 transition-all duration-500" />
               </a>
               <a
                 href="http://tiktok.com/@starservice_itcroxy"
                 target="_blank"
-                className="text-gray-700 group hover:text-orange-900 dark:text-orange-300 transition-all duration-500"
+                className="text-gray-700 group hover:text-purple-900 dark:text-purple-300 transition-all duration-500"
               >
                 <FaTiktok className="inline-block h-5 w-6 me-2 group-hover:-translate-y-4 transition-all duration-500" />
               </a>
               <a
                 href="https://maps.app.goo.gl/CxNwiQ5ZQkdZkG3r5"
                 target="_blank"
-                className="text-gray-700 group hover:text-orange-900 dark:text-orange-300 transition-all duration-500"
+                className="text-gray-700 group hover:text-purple-900 dark:text-purple-300 transition-all duration-500"
               >
                 <FaLocationDot className="inline-block h-6 w-6 me-2 group-hover:-translate-y-4 transition-all duration-500" />
               </a>

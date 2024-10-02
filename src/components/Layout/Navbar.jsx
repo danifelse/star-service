@@ -70,15 +70,15 @@ export default function Navbar() {
       <div className="container">
         <div className="flex items-center justify-between relative">
           <div className="px-4 flex place-items-center">
-            <a
-              href="#"
-              className={`font-bold  text-xl md:text-2xl lg:text-3xl block py-1 hover:opacity-800 text-orange-500 tracking-widest flex items-center`}
+            <div
+              className={`text-xl md:text-2xl lg:text-3xl block py-1 hover:opacity-800 text-primary font-sans dark:text-purple-500 [text-shadow:_-2px_4px_4px_rgb(0_0_0_/_40%)] dark:[text-shadow:_2px_2px_2px_rgb(163_83_219_/_40%)] font-extrabold tracking-widest flex items-center`}
             >
-              <span>S T</span>
-              <GrStarOutline className="inline me-1"/>
-              <span> R</span>
+              {/* <span>S T</span> */}
+              {/* <GrStarOutline className="inline me-1"/> */}
+              <img src="./images/logo.png" className="w-10" alt="" />
+              <span className="ms-2">STAR</span>
               <span className="ms-2">Service</span>
-            </a>
+            </div>
           </div>
           <div className="flex items-center px-4">
             <div
