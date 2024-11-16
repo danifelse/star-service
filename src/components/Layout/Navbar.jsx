@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import { CiDark, CiLight } from "react-icons/ci";
 import { useDispatch, useSelector } from "react-redux";
 import { toggleDarkMode } from "../../redux/slices/DarkModeSlice";
-import { GrStarOutline } from "react-icons/gr";
 
 export default function Navbar() {
   const [isOpen, setIsOpen] = useState(false);

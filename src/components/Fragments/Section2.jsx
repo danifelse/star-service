@@ -1,5 +1,4 @@
 import { useEffect, useState } from "react";
-import CardService from "../Card/CardService";
 import { VscTools } from "react-icons/vsc";
 import ServiceCarousels from "../Carousels/ServiceCarousels";
 
